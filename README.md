@@ -102,4 +102,4 @@ The tool reads EDIDs from `ioreg`. Choose `p` at the prompt and paste an EDID fr
 - It renames displays. It doesn't generate HiDPI resolutions, so use One-Key HiDPI for that.
 
 ## Note
-Developed and used on a Dell Latitude 7410. Other machines should work the same way, but they haven't been tested.
+Developed and used on a Dell Latitude 7410 with the help of Claude. Other machines should work the same way, but they haven't been tested.
