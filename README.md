@@ -5,7 +5,7 @@ Fixes "Unknown Display" in System Settings, Color Profile and Hackintool, and wo
 
 ---
 
-<img width="900" height="884" alt="Display-EDID-Tool-SS" src="https://github.com/user-attachments/assets/276ca155-9d37-4d97-a911-724775126d46" />
+<img width="850" height="431" alt="Display-EDID-Tool-SS" src="https://github.com/user-attachments/assets/aae104cb-f8e8-48bc-bd41-75c91e9681fe" />
 
 ## What it does
 
